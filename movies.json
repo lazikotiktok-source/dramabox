@@ -1,1 +1,13 @@
-[{"id": 1, "title": "Test Film", "description": "Sinov uchun", "image": "", "video_url": ""}]
+{
+    "movie_1": {
+        "title": "Test Film",
+        "description": "Sinov uchun",
+        "poster": "",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    }
+}
