@@ -1,7 +1,74 @@
 {
     "movie_1": {
-        "title": "O'RGIMCHAK NOIR",
-        "poster": "",
+        "id": 1,
+        "title": "Test Film",
+        "description": "Sinov uchun",
+        "image": "",
+        "video_url": ""
+    },
+    "movie_2": {
+        "title": "Jxgjcg",
+        "poster": "posters/movie_2.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_3": {
+        "title": "Zvbvc",
+        "poster": "posters/movie_3.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_4": {
+        "title": "Jcxch",
+        "poster": "posters/movie_4.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_5": {
+        "title": "OʼRGIMCHAK Noir",
+        "poster": "posters/movie_5.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_6": {
+        "title": "Bxnxnnd",
+        "poster": "posters/movie_6.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_7": {
+        "title": "Vccg",
+        "poster": "posters/movie_7.jpg",
+        "episodes": [
+            {
+                "name": "1-qism",
+                "url": "https://serg.shareyfile.ir/0su64o2j/0su64o2j.mp4"
+            }
+        ]
+    },
+    "movie_8": {
+        "title": "Hcfh",
+        "poster": "posters/movie_8.jpg",
         "episodes": [
             {
                 "name": "1-qism",
@@ -9,4 +76,4 @@
             }
         ]
     }
-}
+    }
